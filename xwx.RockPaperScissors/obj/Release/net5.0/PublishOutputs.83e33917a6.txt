@@ -1,0 +1,11 @@
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\xwx.RockPaperScissors.exe
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\xwx.RockPaperScissors.dll
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\xwx.RockPaperScissors.deps.json
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\xwx.RockPaperScissors.runtimeconfig.json
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\xwx.RockPaperScissors.pdb
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.NET_project\xwx.RockPaperScissors\xwx.RockPaperScissors\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
